@@ -1,7 +1,7 @@
 {
     "name": "finance_app_clean",
     "short_name": "finance_app_clean",
-    "start_url": ".",
+    "start_url": "/finance_app_web_demo/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
